@@ -1,0 +1,12 @@
+C:\myclasyswork\day5\loginproject\bin\Debug\loginproject.exe.config
+C:\myclasyswork\day5\loginproject\bin\Debug\loginproject.exe
+C:\myclasyswork\day5\loginproject\bin\Debug\loginproject.pdb
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.csproj.AssemblyReference.cache
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.csproj.SuggestedBindingRedirects.cache
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.Form1.resources
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.Properties.Resources.resources
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.csproj.GenerateResource.cache
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.csproj.CoreCompileInputs.cache
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.exe
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.pdb
+C:\myclasyswork\day5\loginproject\obj\Debug\loginproject.success.resources
